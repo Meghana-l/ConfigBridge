@@ -1,6 +1,6 @@
 # ConfigBridge — ERP Implementation Delivery Hub
 
-**Live:** [config-bridge-72uaixklk-meghanalnswamydr-5532s-projects.vercel.app](https://config-bridge-72uaixklk-meghanalnswamydr-5532s-projects.vercel.app)
+**Live:** [[config-bridge-72uaixklk-meghanalnswamydr-5532s-projects.vercel.app](https://config-bridge-72uaixklk-meghanalnswamydr-5532s-projects.vercel.app)](https://config-bridge-eight.vercel.app/)
 
 ConfigBridge tracks end-to-end ERP package implementations — from business requirements through go-live readiness. Select any ERP module and business process, configure your project parameters, and generate a full delivery analysis: requirements mapped to configuration objects, configuration decisions with SAP T-codes, test coverage with defect logging, deployment checklist, and implementation risk register — all backed by live exchange rates and Fed Funds Rate data.
 
